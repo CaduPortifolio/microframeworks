@@ -8,8 +8,8 @@
 #RN
 
 [X] As transações poderão ser de crédito e débito.
-[ ] Deve ser possível identificar os usuários nas suas requisições.
-[ ] Usuário só pode visualizar transações que ele criou.
+[x] Deve ser possível identificar os usuários nas suas requisições.
+[x] Usuário só pode visualizar transações que ele criou.
 
 
 #RNF
