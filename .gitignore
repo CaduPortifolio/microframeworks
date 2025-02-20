@@ -1,0 +1,12 @@
+# Dependecies
+node_modules
+
+# Database - O * ignora todos os arquivos que terminam com .db
+db/*.db 
+
+#environment
+.env
+.env.test
+
+# Build
+Build
